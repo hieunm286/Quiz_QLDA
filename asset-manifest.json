@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Quiz_QLDA/static/css/main.ced455eb.chunk.css",
-    "main.js": "/Quiz_QLDA/static/js/main.31b9062c.chunk.js",
-    "main.js.map": "/Quiz_QLDA/static/js/main.31b9062c.chunk.js.map",
+    "main.js": "/Quiz_QLDA/static/js/main.859a2e68.chunk.js",
+    "main.js.map": "/Quiz_QLDA/static/js/main.859a2e68.chunk.js.map",
     "runtime-main.js": "/Quiz_QLDA/static/js/runtime-main.56cc82d8.js",
     "runtime-main.js.map": "/Quiz_QLDA/static/js/runtime-main.56cc82d8.js.map",
     "static/js/2.dde31a20.chunk.js": "/Quiz_QLDA/static/js/2.dde31a20.chunk.js",
     "static/js/2.dde31a20.chunk.js.map": "/Quiz_QLDA/static/js/2.dde31a20.chunk.js.map",
     "index.html": "/Quiz_QLDA/index.html",
-    "precache-manifest.c70d86f556016356b50d02dd1395b561.js": "/Quiz_QLDA/precache-manifest.c70d86f556016356b50d02dd1395b561.js",
+    "precache-manifest.e67efb503dd533a1be3c2ddaa5b18372.js": "/Quiz_QLDA/precache-manifest.e67efb503dd533a1be3c2ddaa5b18372.js",
     "service-worker.js": "/Quiz_QLDA/service-worker.js",
     "static/css/main.ced455eb.chunk.css.map": "/Quiz_QLDA/static/css/main.ced455eb.chunk.css.map",
     "static/js/2.dde31a20.chunk.js.LICENSE.txt": "/Quiz_QLDA/static/js/2.dde31a20.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.56cc82d8.js",
     "static/js/2.dde31a20.chunk.js",
     "static/css/main.ced455eb.chunk.css",
-    "static/js/main.31b9062c.chunk.js"
+    "static/js/main.859a2e68.chunk.js"
   ]
 }
