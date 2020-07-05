@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.answer {
+  cursor: pointer;
+  
+}
+
+.answerchecked {
+  cursor: pointer;
+  background-color: green;
+  color: white;
+}
+
+.result {
+  cursor: pointer;
+  background-color: red;
+  color: white;
+}
+
+.active {
+  cursor: pointer;
+  background-color: green;
+  color: white;
+}
+
+.inactive {
+  cursor: pointer;
+}
